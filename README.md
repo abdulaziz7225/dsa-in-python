@@ -1,0 +1,11 @@
+# Data Structures and Algorithms
+
+## Blind 75
+
+**Blind 75** is a list of **75 coding interview questions** that are commonly asked by top tech companies like **Google**, **Amazon**, **Microsoft**, **Meta**, etc. This list is designed to help candidates prepare for **technical interviews** by covering a range of important topics like Array, String, Linked List, Tree, Graph, Dynamic Programming, etc.
+> [Blind 75](https://www.geeksforgeeks.org/blind-75/) by GeeksforGeeks
+
+## SDE sheet – A Complete Guide for SDE Preparation
+
+Here is a curated list of the most popular questions among important topics, such as Programming Languages, Data Structure and Algorithms (DSA), CS Subjects, Aptitude, etc, asked in the Software Development Engineer Interviews.  
+> [SDE sheet – A Complete Guide for SDE Preparation](https://www.geeksforgeeks.org/sde-sheet-a-complete-guide-for-sde-preparation/) by GeeksforGeeks
