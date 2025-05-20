@@ -28,3 +28,7 @@ Here are the top coding interview questions that you must practice to increase y
 These questions are categorized by different topics for better preparation.
 
 > [Practice For Cracking Any Coding Interview](https://www.geeksforgeeks.org/practice-for-cracking-any-coding-interview/) by GeeksforGeeks
+
+## Top 10 Algorithms and Data Structures for Competitive Programming
+
+> [Top 10 Algorithms and Data Structures for Competitive Programming](https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/) by GeeksforGeeks
