@@ -1,0 +1,9 @@
+[submodule "leetcode-problems"]
+	path = leetcode-problems
+	url = https://github.com/abdulaziz7225/leetcode-problems
+[submodule "coding-interview-roadmap"]
+	path = coding-interview-roadmap
+	url = https://github.com/abdulaziz7225/coding-interview-roadmap.git
+[submodule "cracking-the-coding-interview"]
+	path = cracking-the-coding-interview
+	url = git@github.com:abdulaziz7225/cracking-the-coding-interview.git
