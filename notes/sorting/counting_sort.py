@@ -3,8 +3,8 @@ from typing import List
 
 class Solution:
     def counting_sort(self, array: List[int]) -> None:
-        maximum = max(array)
-        count = [0] * (maximum + 1)
+        max_value = max(array)
+        count = [0] * (max_value + 1)
         result = [0] * len(array)
 
         # Count each element
