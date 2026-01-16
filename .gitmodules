@@ -7,3 +7,6 @@
 [submodule "cracking-the-coding-interview"]
 	path = cracking-the-coding-interview
 	url = git@github.com:abdulaziz7225/cracking-the-coding-interview.git
+[submodule "leetcode-problems-in-cpp"]
+	path = leetcode-problems-in-cpp
+	url = git@github.com:abdulaziz7225/leetcode-problems-in-cpp.git
